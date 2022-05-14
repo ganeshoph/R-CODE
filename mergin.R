@@ -1,4 +1,5 @@
 ##R code to merge vision center data 
+##All exort data from VC are stored in some folder. If they are in "XLSX" format fine, else uncoment "paste(vidy[i],"x",sep = "")"
 ##14May 2022
 library(readxl)
 library(writexl)

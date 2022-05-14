@@ -1,3 +1,5 @@
+##R code to merge vision center data 
+##14May 2022
 library(readxl)
 library(writexl)
 vid<-choose.dir()
